@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-jira-app-deploy/static/css/main.e28fe001.chunk.css",
+    "main.js": "/react-jira-app-deploy/static/js/main.77d86d8f.chunk.js",
+    "main.js.map": "/react-jira-app-deploy/static/js/main.77d86d8f.chunk.js.map",
+    "runtime-main.js": "/react-jira-app-deploy/static/js/runtime-main.6b3b9bae.js",
+    "runtime-main.js.map": "/react-jira-app-deploy/static/js/runtime-main.6b3b9bae.js.map",
+    "static/js/2.1afc551f.chunk.js": "/react-jira-app-deploy/static/js/2.1afc551f.chunk.js",
+    "static/js/2.1afc551f.chunk.js.map": "/react-jira-app-deploy/static/js/2.1afc551f.chunk.js.map",
+    "index.html": "/react-jira-app-deploy/index.html",
+    "precache-manifest.f72151423fc63149e32454c6b43a31df.js": "/react-jira-app-deploy/precache-manifest.f72151423fc63149e32454c6b43a31df.js",
+    "service-worker.js": "/react-jira-app-deploy/service-worker.js",
+    "static/css/main.e28fe001.chunk.css.map": "/react-jira-app-deploy/static/css/main.e28fe001.chunk.css.map",
+    "static/js/2.1afc551f.chunk.js.LICENSE.txt": "/react-jira-app-deploy/static/js/2.1afc551f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b3b9bae.js",
+    "static/js/2.1afc551f.chunk.js",
+    "static/css/main.e28fe001.chunk.css",
+    "static/js/main.77d86d8f.chunk.js"
+  ]
+}

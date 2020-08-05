@@ -2,7 +2,7 @@
   "name": "jira-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://priyankaSharma0502.github.io/react-jira-app-deploy",
+  "homepage": "http://prisharma10.github.io/react-jira-app-deploy",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
